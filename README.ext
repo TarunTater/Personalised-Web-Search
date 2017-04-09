@@ -1,0 +1,24 @@
+=================================================================
+What the user wants! - Personalised Web Search 
+-----------------------------------------------------------------
+Madhumathi K, Tarun Tater and Sushravya G M
+=================================================================
+
+Files --
+* PersonalizedWebSearch.ipynb: code for training and evaluating models
+* PersonalizedWebSearch.py : python code
+* massive_project_report.pdf: Project report
+
+It is recommended that the reader goes through code in the ipynb file as it is better documented.
+
+Some points to note --
+* data set is not included due to its large size
+* to view the .ipynb file, you will need to install ipython notebook
+    pip install ipython[notebook] (Ubuntu)
+* documentation about dataset maybe found at 
+    https://www.kaggle.com/c/yandex-personalized-web-search-challenge/data
+
+Queries/ Questions may be sent to
+    k.madhumathi@iiitb.org
+    tarun.tater@iiitb.org 
+    sushravya.gm@iiitb.org
